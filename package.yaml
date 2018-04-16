@@ -1,0 +1,20 @@
+name:                warp-ws
+version:             0.1.0.0
+#synopsis:
+#description:
+homepage:            https://github.com/dcastro/warp-ws#readme
+license:             BSD3
+author:              Diogo Castro
+maintainer:          dc@diogocastro.com
+copyright:           2017 Diogo Castro
+category:            Web
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+
+executables:
+  warp-ws:
+    source-dirs:      src
+    main:             Main.hs

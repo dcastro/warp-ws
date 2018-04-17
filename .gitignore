@@ -18,5 +18,6 @@ cabal.sandbox.config
 *.keter
 *~
 \#*
-twenty48.cabal
+warp-ws.cabal
 bench.html
+
